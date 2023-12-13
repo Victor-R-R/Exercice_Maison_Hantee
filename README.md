@@ -1,2 +1,2 @@
-# Ejercicio_Casa_Encantada
-Ejercicio de una casa encantada que se necesita encontrar los dulces para salir de ella
+# Exercice_Maison_Hantée
+Exercice d'une maison hantée où il faut trouver les bonbons pour en sortir.
